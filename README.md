@@ -2,4 +2,3 @@
 - 👀 I’m interested in Finance and Python
 - 🌱 I’m currently learning 'Banche e Intermediari Finanziari' in Luiss Guido Carli
 - 📫 How to reach me alessio99.pompili@gmail.com
-- 
